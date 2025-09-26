@@ -38,3 +38,22 @@ print("Result 4: ", result4)
 result5 = 5 + 2 ** 3 * (4 - 1)
 print("Result 5: ", result5)
 
+#CHALLENGES
+
+# Challenge 1: Rectangle Area  
+# Calculate the area of a rectangle with a width of 8 and a height of 5.  
+
+# Challenge 2: Circle Area  
+# Use the formula πr² to calculate the area of a circle with radius 7. 
+# (Use 3.14 for π.)  
+
+# Challenge 3: Shopping Total  
+# A book costs $12.99 and a notebook costs $3.50.  
+# Calculate the total cost for 3 books and 4 notebooks. 
+# 
+# Challenge 4: Even or Odd
+# Create a variable that holds any integer. 
+# Use the modulus operator to check if the number is even or odd.
+# Explain your reasoning.  
+
+
